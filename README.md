@@ -1,31 +1,31 @@
 # Task 5 – Exploratory Data Analysis (EDA) on Titanic Dataset
 
 ## 📌 Objective
-The goal of this project is to perform **exploratory data analysis (EDA)** on the Titanic dataset to extract meaningful insights.  
-The focus is on identifying patterns in survival rates based on factors like gender, class, age, and fare.
+The goal of this project is to perform **exploratory data analysis (EDA)** on the Titanic dataset to identify patterns and factors that influenced passenger survival. The analysis combines **data cleaning, visualization, and statistical techniques** to generate meaningful insights.
 
 ---
 
 ## 🛠 Tools Used
-- **Python** – Data analysis  
-- **Pandas** – Data cleaning & manipulation  
-- **Matplotlib** – Basic plotting  
-- **Seaborn** – Statistical visualizations  
+- **Python** – Programming language for analysis  
+- **Pandas** – Data cleaning and manipulation  
+- **Matplotlib** & **Seaborn** – Visualization libraries  
 - **Google Colab** – Cloud-based notebook environment  
 
 ---
 
 ## 📂 Files
-- **Titanic_EDA.ipynb** – Jupyter Notebook with complete analysis including data cleaning, visualization, and insights.  
+- **Titanic_EDA.ipynb** – Jupyter Notebook with:  
+  - Data preparation and handling missing values  
+  - Visualizations of survival by gender, class, age, and fare  
+  - Summary of key insights  
 
 ---
 
 ## 📊 Key Insights
-- Women had a higher survival rate than men  
-- First-class passengers survived more compared to other classes  
-- Higher ticket fares were linked with better survival chances  
-- Younger passengers were more common in third class  
-- Family size and embarkation port also influenced survival  
+- **Women had a higher survival rate than men**  
+- **First-class passengers survived more often** than those in lower classes  
+- **Higher ticket prices correlated with higher survival chances**  
+- **Children and younger passengers** had better survival outcomes than adults  
 
 ---
 
@@ -35,6 +35,6 @@ The focus is on identifying patterns in survival rates based on factors like gen
 ---
 
 ## 🎯 Learning Outcomes
-- Strengthened skills in **data cleaning and visualization**  
-- Learned to perform **univariate and bivariate analysis**  
-- Understood **key factors affecting survival rates**
+- Gained experience in **data cleaning and preprocessing**  
+- Improved ability to create **insightful visualizations**  
+- Understood how **demographics and socio-economic factors** affected survival
